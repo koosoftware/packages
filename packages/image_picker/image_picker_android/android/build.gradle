@@ -62,4 +62,5 @@ android {
             }
         }
     }
+    namespace 'io.flutter.plugins.imagepicker'
 }
